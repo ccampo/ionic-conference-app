@@ -1,3 +1,3 @@
 mkdir platforms
-mkdir platforms/windows
-mkdir platforms/windows/AppPackages
+mkdir platforms\windows
+mkdir platforms\windows\AppPackages
